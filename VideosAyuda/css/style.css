@@ -135,12 +135,7 @@ ul.nav.nav-sidebar li.active a{
     background-color: #232323 !important;
     color: #21DEEF;
 }
-ul.nav.nav-sidebar li a{
-    color: #BBBBBB;
-    font-size: 13px;
-    font-weight: 600;
-    padding: .8em 0 .8em 3em;
-}
+
 .main-grids {
   padding: 0 0 1em 1em;
 }
@@ -181,11 +176,7 @@ ul.cl-effect-1,ul.cl-effect-2 {
     display: block;
     margin: 0;
 }
-.nav-sidebar ul li a {
-    padding: .5em 0 .5em 7em !important;
-    display: block;
-    text-decoration: none;
-}
+
 .glyphicon-film{
 	margin: 0 2em 0 0;
     font-size: 16px !important;	
@@ -1849,9 +1840,7 @@ background: url(../images/social.png) no-repeat 0px 0px;
 	.header-top-right {
 		margin: .5em 0;
 	}
-	.sidebar {
-		padding: 0 10px 20px 10px;
-	}
+	
 	.time {
 		top: 89% !important;
 	}
