@@ -1978,3 +1978,17 @@ section{ padding: 50px 0; }
 	margin-top: 15px;
 
 }
+
+.row-documentos{
+	width: 100%;
+}
+
+.documents_links{
+	font-size: 18px;
+	color:royalblue;
+}
+
+.recursos_links{
+	font-size: 24px;
+	color: royalblue;
+}
